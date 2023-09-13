@@ -1,6 +1,6 @@
 # Olá, sou o João Pedro 👋🏻
 
-🎓 Ciência da Computação UDF.
+🎓 <h1> Ciência da Computação UDF. </h1> 
 
 👾 Tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou focado no desenvolvimento backend, mas meu apetite pelo aprendizado não tem limites. Estou sempre ansioso para explorar novas áreas da TI e expandir meu conhecimento.
 
